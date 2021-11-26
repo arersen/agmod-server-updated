@@ -174,8 +174,8 @@ DLL_GLOBAL cvar_t	ag_dom_resetscorelimit = { "sv_ag_dom_resetscorelimit", "6" };
 DLL_GLOBAL cvar_t	ag_dom_scorelimit = { "sv_ag_dom_scorelimit", "200" }; // max points a team needs to get to win the game
 //-- muphicks
 
-DLL_GLOBAL cvar_t	ag_gauss_fix = { "ag_gauss_fix","0" };            //Default 0 - no fix.
-DLL_GLOBAL cvar_t	ag_rpg_fix = { "ag_rpg_fix","0" };            //Default 0 - no fix.
+DLL_GLOBAL cvar_t	ag_gauss_fix = { "ag_gauss_fix","1" };            //Default 0 - no fix.
+DLL_GLOBAL cvar_t	ag_rpg_fix = { "ag_rpg_fix","1" };            //Default 0 - no fix.
 
 DLL_GLOBAL cvar_t	ag_spawn_system = { "ag_spawn_system", "0", FCVAR_SERVER };  // Default 0 - classic mode (select a random spawn from the next 5)
 DLL_GLOBAL cvar_t	ag_spawn_history_entries = { "ag_spawn_history_entries", "25", FCVAR_SERVER };  // Default 25 - remember all of these spawnpoints that were last used
