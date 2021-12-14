@@ -1,6 +1,5 @@
 # AG 6.6 Updated server library
 [![Build Status](https://github.com/ScriptedSnark/agmod-server-updated/workflows/CI/badge.svg?branch=ci)](https://github.com/YaLTeR/OpenAG/actions?query=branch:master)
-[![Build Status](https://travis-ci.org/ScriptedSnark/agmod-server-updated?branch=ci)](https://travis-ci.org/ScriptedSnark/agmod-server-updated)
 
 This fork focused to server part. 
 
