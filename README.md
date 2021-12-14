@@ -1,16 +1,22 @@
 # AG 6.6 Updated server library
+[![Build Status](https://github.com/ScriptedSnark/agmod-server-updated/workflows/CI/badge.svg?branch=ci)](https://github.com/YaLTeR/OpenAG/actions?query=branch:master)
+[![Build Status](https://travis-ci.org/ScriptedSnark/agmod-server-updated?branch=ci)](https://travis-ci.org/ScriptedSnark/agmod-server-updated)
 
-This fork focused to server part.
+This fork focused to server part. 
 
 ## Changes
-- Fixed snark crash fix
+- Fixed snark crash
+- Fixed tank crash
 - Fixed ammo counter when recording demo
 - Fixed fullupdate exploit
 - Fixed standing cropses
+- Fixed high network usage due to satchel 
+- Added "agforcespectator" command for voting (force player to spectator). For example, "agforcespectator #12"
+- Added "agforceteam" command for voting (force player team). For example, "agforceteam #12 red"
 - Gauss and RPG fixes enabled by default
 
 
-# Half Life 1 SDK LICENSE
+Half Life 1 SDK LICENSE
 ======================
 
 Half Life 1 SDK Copyright© Valve Corp.  
