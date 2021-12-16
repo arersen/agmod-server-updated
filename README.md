@@ -9,7 +9,9 @@ This fork focused to server part.
 - Fixed ammo counter when recording demo
 - Fixed fullupdate exploit
 - Fixed standing cropses
-- Fixed high network usage due to satchel 
+- Fixed high network usage due to satchel
+- Fixed: disconnecting client removes their satchels
+- Fixed bolt / hornet damage which fired before the start of the match in Arena gamemode
 - Added "agforcespectator" command for voting (force player to spectator). For example, "agforcespectator #12"
 - Added "agforceteam" command for voting (force player team). For example, "agforceteam #12 red"
 - Gauss and RPG fixes enabled by default
