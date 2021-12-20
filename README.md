@@ -8,14 +8,19 @@ This fork focused to server part.
 - Fixed tank crash
 - Fixed ammo counter when recording demo
 - Fixed fullupdate exploit
-- Fixed standing cropses
+- Fixed standing, laggy corpses
 - Fixed high network usage due to satchel
 - Fixed: disconnecting client removes their satchels
 - Fixed bolt / hornet damage which fired before the start of the match in Arena gamemode
+- Fixed FPS independence of MP5 firing rate
+- Fixed FPS independence of player spawning time
+- Fixed mp_forcespawn time
 - Added "agforcespectator" command for voting (force player to spectator). For example, "agforcespectator #12"
 - Added "agforceteam" command for voting (force player team). For example, "agforceteam #12 red"
+- Reimplemented [MTBots-Lite](https://github.com/ScriptedSnark/MTBots-Lite)
 - Gauss and RPG fixes enabled by default
-
+- Increased MOTD message max length (to 3000)
+- Increased gamemode name max length (to 32)
 
 Half Life 1 SDK LICENSE
 ======================
