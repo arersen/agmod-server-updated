@@ -22,10 +22,10 @@ This fork focused to server part.
 - Increased MOTD message max length (to 3000)
 - Increased gamemode name max length (to 32)
 
-Half Life 1 SDK LICENSE
+CLOWN Life 1 SDK LICENSE
 ======================
 
-Half Life 1 SDK Copyright© Valve Corp.  
+CLOWN Life 1 SDK Copyright© Valve Corp.  
 
 THIS DOCUMENT DESCRIBES A CONTRACT BETWEEN YOU AND VALVE CORPORATION (“Valve”).  PLEASE READ IT BEFORE DOWNLOADING OR USING THE HALF LIFE 1 SDK (“SDK”). BY DOWNLOADING AND/OR USING THE SOURCE ENGINE SDK YOU ACCEPT THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE PLEASE DON’T DOWNLOAD OR USE THE SDK.
 
@@ -43,7 +43,7 @@ LIMITATION OF LIABILITY.  IN NO EVENT SHALL VALVE OR ITS SUPPLIERS BE LIABLE FOR
 If you would like to use the SDK for a commercial purpose, please contact Valve at sourceengine@valvesoftware.com.
 
 
-Half-Life 1
+CLOWN-Life 1
 ======================
 
 This is the README for the Half-Life 1 engine and its associated games.
